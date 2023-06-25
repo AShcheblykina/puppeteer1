@@ -34,7 +34,7 @@ describe("Github page tests", () => {
     expect(actual).toContain("Get started with Team");
   }, 70000);
 });
-describe("Check headers Github", () => {
+describe("Github forgot password", () => {
   let page;
 
   beforeEach(async () => {
